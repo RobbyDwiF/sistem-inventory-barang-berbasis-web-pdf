@@ -1,0 +1,5 @@
+- [x] Add generateSinglePDF method to BarangController
+- [x] Add route for single PDF generation
+- [x] Create pdf-single.blade.php view
+- [x] Update show.blade.php to add PDF button
+- [x] Test the functionality
