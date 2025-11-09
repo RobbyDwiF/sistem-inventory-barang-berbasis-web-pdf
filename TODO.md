@@ -3,3 +3,8 @@
 - [x] Create pdf-single.blade.php view
 - [x] Update show.blade.php to add PDF button
 - [x] Test the functionality
+- [x] Create BarangFactory for testing
+- [x] Update Barang model with HasFactory trait
+- [x] Seed database with sample data
+- [x] Verify routes are working
+- [x] Push changes to GitHub
